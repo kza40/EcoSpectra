@@ -15,11 +15,9 @@ Authors
 
 To run on Oculus
 
-Install Unity version 2021.3.24f1 and Oculus app. Login to SteamVR and Oculus app and connect your headset.
+    Install Unity version 2021.3.24f1 and Oculus app. Login to SteamVR and Oculus app and connect your headset.
 
-Download 
+    Download and Clone the project
 
-Clone the project
-
-  git clone https://github.com/kza40/EcoSpectra
+          git clone https://github.com/kza40/EcoSpectra
   
