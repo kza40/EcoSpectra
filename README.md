@@ -33,14 +33,11 @@ Developed by:
 
 ---
 
-## 🎮 How to Run on Oculus  
-### 1️⃣ Install Dependencies  
-- Download and install **Unity 2021.3.24f1**  
-- Install the **Oculus app** and log in  
-- Ensure **SteamVR** and **Oculus app** are running  
+## 🛠️ Built With  
+- **Unity 2021.3.24f1**  
+- **Oculus VR** (Oculus app and SteamVR)  
 
-### 2️⃣ Clone the Project  
-Run the following command in your terminal:  
-```sh
-git clone https://github.com/kza40/EcoSpectra
-cd EcoSpectra
+---
+
+## 📁 About This Repository  
+This repository is the project page for EcoSpectra. The Unity project files are not included here; the [trailer](https://youtu.be/qK93GvDck5E) and screenshot above show the finished experience.  
